@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Workplace Imposter",
+    "slug": "workplace-imposter",
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true
+  }
+}
